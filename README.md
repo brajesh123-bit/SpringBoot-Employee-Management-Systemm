@@ -67,29 +67,23 @@ Have fun
 ## 5. Demo:
 
 ### - All Employee UI
+<img width="1436" height="843" alt="image" src="https://github.com/user-attachments/assets/5a89b7f1-2f56-4ab2-80d9-83f51d1c968e" />
 
-![This is an image](src/main/java/images/main_creenshot.png)
 
 ### - Add Employee UI
 
-![This is an image](src/main/java/images/add_creenshot.png)
+<img width="826" height="757" alt="image" src="https://github.com/user-attachments/assets/687b4ea2-5a54-495d-91e4-060978f24a26" />
+
 
 ### - Update UI
 
-![This is an image](src/main/java/images/update_creenshot.png)
+<img width="775" height="760" alt="image" src="https://github.com/user-attachments/assets/785c1b61-da87-4851-a522-04f423317c6c" />
 
 
 
 
-## 6. Original Creator:
 
-Author: Ramesh Fadatare 
- 
-Github Project Name: springboot-thymeleaf-crud-pagination-sorting-webapp
 
-Github URL: https://github.com/RameshMF/springboot-thymeleaf-crud-pagination-sorting-webapp
-
-Youtube URL: https://www.youtube.com/watch?v=_5sAmaRJd2c
 
 Date: 1 June, 2020
 
